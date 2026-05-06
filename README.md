@@ -24,6 +24,7 @@ To edit this repository in MakeCode.
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 #### Now for the fun stuff
 So, basically, this is like Lego's HubOS.
+
 Upcoming Features:
 * Multi Script Programs(Main Focus)
 
