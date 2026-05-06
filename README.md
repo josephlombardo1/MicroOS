@@ -22,3 +22,10 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+#### Now for the fun stuff
+So, basically, this is like Lego's HubOS.
+Upcoming Features:
+Multi Script Programs(Main Focus)
+Potential Featured:
+MicroScript(Custom Programming Language)
+Transmit Programs via Radio(Might only be small/simple MicroScript Programs)
