@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 #### Now for the fun stuff
 So, basically, this is like Lego's HubOS.
 Upcoming Features:
-Multi Script Programs(Main Focus)
-Potential Featured:
-MicroScript(Custom Programming Language)
-Transmit Programs via Radio(Might only be small/simple MicroScript Programs)
+*Multi Script Programs(Main Focus)*
+Potential Features:
+*MicroScript(Custom Programming Language)*
+*Transmit Programs via Radio(Might only be small/simple MicroScript Programs)*
