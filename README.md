@@ -3,12 +3,14 @@ MicroOS is a Lego HubOS inspired project that allows storage of multiple program
 
 Current State: Basic
 
-## Currently Supported:
+## Currently Supported
 
 * Single/Multi Script programs
 
-## Upcoming Features:
+## Upcoming Features
 
-- MicroScript(Custom Programing Language)
+* MicroScript(Custom Programing Language)
 
-- Temporarily store a program from another micro:bit via radio or code
+## Potential Features
+
+* Transmit MicroScript Programs made in a specific way
